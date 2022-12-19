@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Listrik" skipped="0" tests="3" time="115.59" timestamp="2022-12-19 02:57:12"><testcase name="User pay listrik with valid Id"/><testcase name="User pay listrik with invalid id"/></testsuite>

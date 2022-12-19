@@ -1,0 +1,17 @@
+com\example\app\Features\Data.class
+com\example\app\Features\PDAM.class
+com\example\app\Features\Voucher.class
+com\example\app\Features\Faq.class
+com\example\app\Features\History.class
+com\example\app\Features\Shopee.class
+com\example\app\drivers\AndroidDriverInit.class
+com\example\app\Features\Login.class
+com\example\app\Features\Logout.class
+com\example\app\Features\Listrik.class
+com\example\app\Calculator.class
+com\example\app\Features\Register.class
+com\example\app\base\BasePageObject.class
+com\example\app\Features\Pulsa.class
+com\example\app\Features\TermsAndCondition.class
+com\example\app\Features\BPJS.class
+com\example\app\Features\Topup.class

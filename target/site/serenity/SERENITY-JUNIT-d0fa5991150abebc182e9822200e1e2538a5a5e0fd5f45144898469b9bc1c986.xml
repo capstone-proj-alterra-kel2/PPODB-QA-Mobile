@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="PDAM" skipped="0" tests="3" time="118.24" timestamp="2022-12-19 02:59:07"><testcase name="User pay PDAM with valid Id"/><testcase name="User pay pdam with invalid id"/><testcase name="User pay pdam without choose wilayah"/></testsuite>

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pulsa","User buy pulsa with valid phone number","SUCCESS","2022-12-19T15:01:06.5243061+07:00[Asia/Jakarta]","0.0","44.09"
+"Pulsa","User buy pulsa with entering a longer phone number than necessary","SUCCESS","2022-12-19T15:01:50.7043589+07:00[Asia/Jakarta]","0.0","120.9"
+"Pulsa","User buy pulsa with valid phone number and use voucher","SUCCESS","2022-12-19T15:03:51.7137845+07:00[Asia/Jakarta]","0.0","58.9"

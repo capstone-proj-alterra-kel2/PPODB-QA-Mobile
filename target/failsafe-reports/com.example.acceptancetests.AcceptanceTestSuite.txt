@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.example.acceptancetests.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 57, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 2,318.22 s <<< FAILURE! - in com.example.acceptancetests.AcceptanceTestSuite
+Login.Login #3  Time elapsed: 40.637 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View[@content-desc="Masuk"] (tried for 20 second(s) with 3000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5E06L7H7', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\sample-mobile-automation..., appPackage: com.example.ppodb_2, automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\sample-mobile-automation..., automationName: UiAutomator2, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: samsung, deviceModel: SM-A135F, deviceName: RR8T900W7LF, deviceScreenDensity: 450, deviceScreenSize: 1080x2408, deviceUDID: RR8T900W7LF, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 66, takesScreenshot: true, viewportRect: {height: 2277, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: b4d4f01c-5688-435a-a8c2-dcf0c94dd829
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Masuk"]}
+
+Paket Data.User buy data with valid phone number and use voucher  Time elapsed: 66.275 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: (//android.view.View[@content-desc="Voucher"])[2] (tried for 20 second(s) with 3000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5E06L7H7', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\sample-mobile-automation..., appPackage: com.example.ppodb_2, automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\sample-mobile-automation..., automationName: UiAutomator2, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: samsung, deviceModel: SM-A135F, deviceName: RR8T900W7LF, deviceScreenDensity: 450, deviceScreenSize: 1080x2408, deviceUDID: RR8T900W7LF, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 66, takesScreenshot: true, viewportRect: {height: 2277, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 8e200b15-d432-4e74-8346-eb9e6f1bd6ec
+*** Element info: {Using=xpath, value=(//android.view.View[@content-desc="Voucher"])[2]}
+

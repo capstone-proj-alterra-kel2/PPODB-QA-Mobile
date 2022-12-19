@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"PDAM","User pay PDAM with valid Id","SUCCESS","2022-12-19T14:59:07.8706521+07:00[Asia/Jakarta]","0.0","42.23"
+"PDAM","User pay pdam with invalid id","SUCCESS","2022-12-19T14:59:50.2990382+07:00[Asia/Jakarta]","0.0","40.0"
+"PDAM","User pay pdam without choose wilayah","SUCCESS","2022-12-19T15:00:30.4176057+07:00[Asia/Jakarta]","0.0","36.01"
